@@ -6,13 +6,13 @@
 Given an array arr, return the second largest distinct element from an array. If the second largest element doesn't exist then return -1.
 
 Sample Test Cases :
-Input:  12 35 1 10 34 1
-Output: 34
+Input:  12 35 1 10 34 1  <br>
+Output: 34<br>
 
-Input:  10 5 10
-Output: 5
+Input:  10 5 10<br>
+Output: 5<br>
 
-Input:  10 10 10 
+Input:  10 10 10 <br>
 Output: -1
 
 ***
